@@ -1,1 +1,1 @@
-# Heart-Attack-Analysis
+# Heart-Disease-Prediction
